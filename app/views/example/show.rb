@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module ExampleApp
   module Views
     module Example

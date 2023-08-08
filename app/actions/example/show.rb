@@ -11,5 +11,3 @@ module ExampleApp
     end
   end
 end
-
-

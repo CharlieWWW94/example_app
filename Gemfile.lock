@@ -269,6 +269,7 @@ DEPENDENCIES
   rack-test
   rake
   rom (~> 5.3)
+  rom-repository (~> 5.3)
   rom-sql (~> 3.6)
   rubocop (~> 1.55)
 

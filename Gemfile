@@ -39,3 +39,5 @@ group :test do
 end
 
 gem 'rubocop', '~> 1.55'
+
+gem "rom-repository", "~> 5.3"
